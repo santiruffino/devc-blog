@@ -107,13 +107,13 @@ a {
   -webkit-text-decoration-skip: objects;
 
   /* 2 */
-  color: #15f3a8;
+  color: red;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #1bdc9b;
+  color: red;
 }
 
 /**
